@@ -1,2 +1,2 @@
-# Test
-CSCS468
+# REAd ME
+test file for CSCS468
